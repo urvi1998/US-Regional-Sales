@@ -4,16 +4,6 @@ This project visualizes the regional sales data of products across various custo
 
 ![US Regional Sales Dashboard](path_to_screenshot_image) <!-- Replace with the actual path to the screenshot in your repository -->
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Data](#data)
-- [Tools and Technologies](#tools-and-technologies)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
 ## Overview
 The **US Regional Sales Dashboard** is designed to offer a detailed view of product sales, customer performance, and regional delivery statistics from 2018 to 2021. This dashboard assists stakeholders in understanding trends, customer preferences, and regional sales performances.
 
